@@ -18,7 +18,7 @@ This single-page application is designed to represent a sleek and modern online 
 - Interactive animations for a better user experience
 
 ## Live Demo
-Experience the application here: [Nike SPA Live](link-to-live-demo)
+Experience the application here: [Nike SPA Live](https://nike-one-coral.vercel.app/)
 
 ## Technologies Used
 - ReactJS
@@ -40,3 +40,7 @@ Experience the application here: [Nike SPA Live](link-to-live-demo)
 - Integrate API for live product data
 - Implement user authentication and profile management
 - Introduce a dark mode option
+
+## Contact
+- **GitHub**: [Sanjay D.](https://github.com/sanjayshre)
+- **Email**: sanjayd7576@gmail.com
